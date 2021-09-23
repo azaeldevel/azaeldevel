@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @azaeldevel
-- 👀 I’m interested in Database, Genetic Algorithms, C++
+- 👀 I’m interested in C++, Database, Genetic Algorithms, OpenGL, Neuronale Networks
 - 🌱 I’m currently learning IA
-- 💞️ I’m looking to collaborate a project that allows me to learn somthing more
+- 💞️ I’m looking to collaborate a project that allows me to learn something more
 - 📫 How to reach me azael.devel@gmail.com
 
 <!---
